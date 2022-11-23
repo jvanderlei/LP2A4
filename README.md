@@ -8,8 +8,18 @@
   <li>Java</li>
   <li>Jakarta EE</li>
   <li>Hibernate</li>
-  <li>Tomcat Web Server</li>
+  <li>Apache Tomcat</li>
   <li>Maven</li>
   <li>JDBC</li>
 </ul>
 <br>
+
+<h2>Projetos</h2>
+<ul>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/Threads_Project">Threads</a></li>
+  <li>Jakarta EE</li>
+  <li>Hibernate</li>
+  <li>Tomcat Web Server</li>
+  <li>Maven</li>
+  <li>JDBC</li>
+</ul>
