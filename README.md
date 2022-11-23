@@ -14,7 +14,7 @@
 </ul>
 
 
-<h2>Tecnologias Utilizadas </h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<h2>Tecnologias Utilizadas </h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height=12px />
 <ul>
   <li>Java</li>
   <li>Jakarta EE</li>
