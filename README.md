@@ -17,9 +17,9 @@
 <h2>Projetos</h2>
 <ul>
   <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/Threads_Project">Threads</a></li>
-  <li>Jakarta EE</li>
-  <li>Hibernate</li>
-  <li>Tomcat Web Server</li>
-  <li>Maven</li>
-  <li>JDBC</li>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/CRUD_MVC">CRUD MVC</a></li>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/DAO_JDBC">DAO e JDBC</a></li>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/CRUD_JPA">CRUD com JPA</a></li>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/N_MAIS_UM">Atividade N+1</a></li>
+  <li><a href="https://github.com/jvanderlei/LP2A4/tree/main/ATIV5">Atividade 5</a></li>
 </ul>
