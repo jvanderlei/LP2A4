@@ -67,8 +67,11 @@ public class AlunoCRUDServlet extends HttpServlet {
 		
 		try {
 			final CommandEnum acao = CommandEnum.valueOf( acaoParam != null? acaoParam :  CommandEnum.DESCONHECIDO.toString() );
+			System.out.print("Linha 70");
 			final Command comando = Command.commandFactory(acao);
+			System.out.print("Linha 72");
 			comando.execute(request, response);
+			System.out.print("Linha 74");
 		} catch( Exception e) {
 			log.info("Não conseguiu carregar o comando referente ao parametro acao=[" + acaoParam + "]");
 		}		

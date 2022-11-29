@@ -11,6 +11,7 @@ import lp2a4.modelo.AlunoPOJO;
 public class CreateCommand implements Command {
 	@Override
 	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("Adentou execute CreateCommand");
 		final AlunoPOJO aluno = ControllerUtil.transform(request);
 		
 		final AlunoDAO dao = AlunoDAO.getInstance();
